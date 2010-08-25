@@ -10,7 +10,7 @@ img { border: 0; text-decoration: none; }
 /* content */
 h1 { margin: 0 0 10px; letter-spacing: 1px; font-size: 2em; }
 h2 { margin: 0 0 10px; letter-spacing: 1px; font-size: 1.5em; }
-hr { margin: 5px 100px 5px 5px; }
+hr { margin: 5px 62px 5px 5px; }
 .wrap { padding:20px 10px 10px 10px; width:720px; margin:0 auto; }
 #photo { float: left; width: 80px; margin: 0 0 20px 0; }
 #content {	width:620px; float:right; margin: 0 0 20px 0; }

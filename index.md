@@ -1,20 +1,19 @@
 ---
-title: Marcin Nowicki aka Pr0d1r2 - Ruby on Rails BDD Agile developer and Team Leader using GTD and minimalistic approach
+title: Radosław Urbańczyk aka n!ro - web designer & PHP developer
 layout: default
-photo_src: http://gravatar.com/avatar/6079eb9d95034da7c27d3ced3cf6591f.png?r=PG
-photo_dsc: Marcin Nowicki aka Pr0d1r2
+photo_src: http://gravatar.com/avatar/0b25f8ba22a2148519e31647cc0c0654.png?r=PG
+photo_dsc: Radosław Urbańczyk aka n!ro
 ---
 
 # Hello :)
 
-## My name is Marcin Nowicki (aka Pr0d1r2).
+## My name is Radek Urbańczyk (aka n!ro).
 
-I am Ruby on Rails developer and Team Leader using GTD and minimalistic approach.
+I am web designer and PHP developer.
 
-I use BDD and many other Agile methodologies as my everyday routine for development.
+Same time ago I found Ruby on Rails and since then I decided to start my adventure with Rails.
 
 <hr>
 
-[GitHub](http://github.com/Pr0d1r2),
-[Twitter](http://twitter.com/Pr0d1r2),
-[E-Mail](mailto:pr0d1r2@gmail.com)
+[GitHub](http://github.com/radoslawurbanczyk),
+[E-Mail](mailto:radek.urbanczyk@gmail.com)
